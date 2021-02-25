@@ -1,1 +1,14 @@
+data is from:
 https://www.kaggle.com/residentmario/ramen-ratings
+Let's learn how to proprely structure our ML projects
+https://drivendata.github.io/cookiecutter-data-science/#directory-structure
+https://www.jeremyjordan.me/ml-projects-guide/
+
+use pipeline from scikit learn
+deploy it on either django/streamlit/fastapi? (let's skip flask)
+use docker
+
+ML task 1: 
+We want to predict the future rating of a protoype recipe of instant ramen.
+ML task 2:
+Get better at ML
